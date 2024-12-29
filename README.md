@@ -11,6 +11,4 @@
 ![](t013c252d948799688d.jpg)  
 ## 特别鸣谢
 ~~感谢张*，张**的支持~~
-```
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=39227616&auto=1&height=66"></iframe>
-```
