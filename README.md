@@ -7,3 +7,4 @@
 男  
 竞争对手：toby fox
 # 个人第二个联系方式：wswebsite@outlook.com
+![](t013c252d948799688d.jpg)
